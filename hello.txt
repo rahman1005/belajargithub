@@ -1,4 +1,8 @@
 #Helo World
 
-1.membuat repo baru
-2. membuat branch baru
+1. belajar merge
+2. belajar pull request
+3. membuat repo baru
+4. membuat branch baru
+
+
