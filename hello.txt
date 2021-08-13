@@ -2,7 +2,3 @@
 
 1. belajar merge
 2. belajar pull request
-3. membuat repo baru
-4. membuat branch baru
-
-
