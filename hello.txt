@@ -7,3 +7,4 @@
 5. membuat merge
 6. membuat squash
 7. belajar code review
+
